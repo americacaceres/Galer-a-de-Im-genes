@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(106, 220, 224);
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(70, 209, 213);
     border-radius: 10px;
     height: 400px;
 }
@@ -22,6 +22,8 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+
 h1 {
     color: #281363;
     font-family: 'Verdana', sans-serif;
@@ -33,3 +35,4 @@ h1 {
 .link-button:hover {
     background-color: rgb(134, 162, 204);
 }
+
