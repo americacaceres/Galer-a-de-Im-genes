@@ -32,6 +32,10 @@ h1 {
     text-align: center;
 }
 
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .link-button:hover {
     background-color: rgb(134, 162, 204);
 }
